@@ -1,0 +1,33 @@
+{
+  "name": "hackita_proyect",
+  "version": "1.0.0",
+  "description": "proyecto realizado para hackathon Hack the ocean\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/.bin/jest",
+    "server": "node ./lib/server.js",
+    "linter": "eslint .",
+    "linter-fix": "eslint . --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UbaldoFMelchor/Hack_the_ocean.git"
+  },
+  "author": "UbaldoFMelchor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UbaldoFMelchor/Hack_the_ocean/issues"
+  },
+  "homepage": "https://github.com/UbaldoFMelchor/Hack_the_ocean#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {
+    "eslint": "^8.15.0",
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}

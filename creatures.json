@@ -1,0 +1,182 @@
+[
+    {
+        "nombre": "totoaba",
+        "nombre_científico":"totoaba macdonaldi",
+        "oceano": "Golfo de California",
+        "nivel_de_peligro": "https://nrl.iucnredlist.org/assets/category-scale/category-scale_vu-1c4c0b40a65312caf241aa0e81956752a91e5cec1d52db68ebdb5ebb78511559.svg",
+        "Fecha_de_inclusion": "21 August 2020",
+        "URL":"https://upload.wikimedia.org/wikipedia/commons/a/a0/Totoaba.jpg",
+        "Principales_amenazas": [
+          "Caza furtiva",
+          "Captura incidental",
+          "Comercio illegal"
+        ],
+        "Acciones_necesarias":[
+            "Detener pezca ilegal",
+            "Proteger tierra de desove",
+            "Mejorar la recolección de información"
+        ]
+    },
+    {
+        "nombre": "tortuga carey",
+        "nombre_científico":"eretmochelys imbricata",
+        "oceano": "Golfo de México",
+        "nivel_de_peligro": "https://nrl.iucnredlist.org/assets/category-scale/category-scale_cr-b096635dc39417c4c50ad812d0412ed8ba20924c0878113126127a6363507aff.svg",
+        "Fecha_de_inclusion": "30 June 2008",
+
+        "URL":"https://wir.iucnredlist.org/eretmochelys-imbricata.jpg",
+        "Principales_amenazas": [
+          "recolección de huevos furtiva",
+          "Caza Ilegal",
+          "Destruccion de habitat natural",
+          "Ingesta de basura"
+        ],
+        "Acciones_necesarias":[
+            "Crear conciencia pública",
+            "Crear tratados de protección internacional",
+            "Creación de ares protegidas",
+            "Incrementar número de Biólogos que estudien a las tortugas"
+        ]
+    },
+    {
+        "nombre": "vaquita marina",
+        "nombre_científico":"phocoena sinus",
+        "oceano": "Golfo de California",
+        "nivel_de_peligro": "https://nrl.iucnredlist.org/assets/category-scale/category-scale_cr-b096635dc39417c4c50ad812d0412ed8ba20924c0878113126127a6363507aff.svg",
+        "Fecha_de_inclusion": "20 July 2017",
+        "URL":"https://wir.iucnredlist.org/phocoena-sinus.jpg",
+
+        "Principales_amenazas": [
+            " Mortalidad en las redes de enmalle",
+            "Exposición a pesticidas",
+            "Cambios ecológicos"
+        ],
+        "Acciones_necesarias":[
+            "Prohibición permanente de uso de redes de enmalle",
+            "Prohibición permanente de posesion y manufactura de redes de enmalle",
+            "llevar especimenes a santuarios protegidos"
+        ]
+    },
+    {
+        "nombre": "ballena azul",
+        "nombre_científico":"balaenoptera musculus",
+        "oceano": "Pacífico",
+        "nivel_de_peligro": "https://nrl.iucnredlist.org/assets/category-scale/category-scale_en-0d69810f4e9b3fa5f0d5ed9ace02cfddaf11e383da57fed8aed99930c95d7075.svg",
+        "Fecha_de_inclusion": "16 March 2018",
+        "URL":"https://wir.iucnredlist.org/balaenoptera-musculus.jpg",
+
+        "Principales_amenazas": [
+          "Explotación directa",
+          "Heridas por impacto con barcos"
+        ],
+        "Acciones_necesarias":[
+            "Detener pezca ilegal"
+        ]
+    },
+    {
+        "nombre": "tortuga lora",
+        "nombre_científico":"lepidochelys kempii",
+        "oceano": "Golfo de México",
+        "nivel_de_peligro": "https://nrl.iucnredlist.org/assets/category-scale/category-scale_cr-b096635dc39417c4c50ad812d0412ed8ba20924c0878113126127a6363507aff.svg",
+        "Fecha_de_inclusion": "14 January 2019",
+        "URL":"https://wir.iucnredlist.org/787195903.jpg",
+        "Principales_amenazas": [
+          "redes de arrastre de fondo",
+          "Predación",
+          "aturdimiento frío",
+          "Contaminacion por desechos marinos"
+        ],
+        "Acciones_necesarias":[
+            "creacion de corrales para proteger de depredación",
+            "Proteger tierra de desove",
+            "Mejorar la regulación sobre el desecho de desperdicios",
+            "Aumentar las inspecciones de actividades de extracción de petróleo"
+        ]
+    },
+    {
+        "nombre": "león marino de steller",
+        "nombre_científico":"Eumetopias Jubatus",
+        "oceano": "Pacífico",
+        "nivel_de_peligro": "https://nrl.iucnredlist.org/assets/category-scale/category-scale_nt-2a5d8310adfd84fc0d659f7183f7fcae5cfbed88d9bbbbb95201079eb9c53e3e.svg",
+        "Fecha_de_inclusion": "04 February 2016",
+        "URL":"https://wir.iucnredlist.org/572215165.jpg",
+
+        "Principales_amenazas": [
+          "Pesca y recoleccion de recursos acuáticos",
+          "Modificaciones al ecosistema",
+          "Cambios en el habitat"
+        ],
+        "Acciones_necesarias":[
+            "Reducir la depredación",
+            "Creación de santuarios",
+            "Aumentar los recursos de investigación"
+        ]
+    },
+    {
+        "nombre": "tiburón martillo gigante",
+        "nombre_científico":"sphyrna mokarran",
+        "oceano": "Golfo de México",
+        "nivel_de_peligro": "https://nrl.iucnredlist.org/assets/category-scale/category-scale_cr-b096635dc39417c4c50ad812d0412ed8ba20924c0878113126127a6363507aff.svg",
+        "Fecha_de_inclusion": "09 November 2018",
+        "URL":"https://wir.iucnredlist.org/sphyrna-mokarran.jpg",
+        "Principales_amenazas": [
+          "Pesca y recoleccion de recursos acuáticos"
+          
+        ],
+        "Acciones_necesarias":[
+            "Detener pezca ilegal",
+            "Proteger tierra de desove",
+            "Mejorar la recolección de información"
+        ]
+    },
+    {
+        "nombre": "rorcual común",
+        "nombre_científico":"balaenoptera physalus",
+        "oceano": "Golfo de California",
+        "nivel_de_peligro": "https://nrl.iucnredlist.org/assets/category-scale/category-scale_vu-1c4c0b40a65312caf241aa0e81956752a91e5cec1d52db68ebdb5ebb78511559.svg",
+        "Fecha_de_inclusion": "04 February 2018",
+        "URL":"https://wir.iucnredlist.org/1855675223.jpg",
+        "Principales_amenazas": [
+            "Pesca y recoleccion de recursos acuáticos"
+        ],
+        "Acciones_necesarias":[
+            "Crear plan de Recuperación",
+            "Incluir legislación internacional",
+            "Crear sistema de monitoreo sistemático"
+        ]
+    },
+    {
+        "nombre": "delfín de cabeza blanca",
+        "nombre_científico":"Cephalorhynchus hectori",
+        "oceano": "Pacífico",
+        "nivel_de_peligro": "https://nrl.iucnredlist.org/assets/category-scale/category-scale_en-0d69810f4e9b3fa5f0d5ed9ace02cfddaf11e383da57fed8aed99930c95d7075.svg",
+        "Fecha_de_inclusion": "01 July 2008",
+        "URL":"https://wir.iucnredlist.org/cephalorhynchus-hectori.jpg",
+        "Principales_amenazas": [
+          "líneas de Pesca",
+          "Contaminación",
+          "Pesca y recoleccion de recursos acuáticos"
+        ],
+        "Acciones_necesarias":[
+            "Creación de santuarios",
+            "Incluir legislación internacional"
+        ]
+    },
+    {
+        "nombre": "tortuga verde",
+        "nombre_científico":"chelonia mydas",
+        "oceano": "Golfo de México",
+        "nivel_de_peligro": "https://nrl.iucnredlist.org/assets/category-scale/category-scale_en-0d69810f4e9b3fa5f0d5ed9ace02cfddaf11e383da57fed8aed99930c95d7075.svg",
+        "Fecha_de_inclusion": "30 April 2004",
+        "URL":"https://wir.iucnredlist.org/chelonia-mydas.jpg",
+        "Principales_amenazas": [
+          "Turismo y areas de recreación",
+          "Pesca y recoleccion de recursos acuáticos"
+          
+        ],
+        "Acciones_necesarias":[
+            "Iformar y crear conciencia pública",
+            "Incluir legislación internacional"
+        ]
+    }
+]
